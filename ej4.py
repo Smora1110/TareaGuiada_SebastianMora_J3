@@ -1,3 +1,7 @@
+''''
+Sebastian Mora
+22 julio 2025
+'''
 frase = input("Escribe una frase: ")
 
 frase_cifrada = frase.replace("a", "*").replace("e", "*").replace("i", "*").replace("o", "*").replace("u", "*") 

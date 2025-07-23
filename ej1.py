@@ -1,3 +1,7 @@
+''''
+Sebastian Mora
+22 julio 2025
+'''
 frase = input("Escribe una frase: ")
 
 total_caracteres = len(frase)  # Cuenta todos los caracteres

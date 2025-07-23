@@ -1,3 +1,7 @@
+''''
+Sebastian Mora
+22 julio 2025
+'''
 nombre = input("Escribe tu nombre completo: ")
 
 if nombre.replace(" ", "").isalpha():  # Verifica que solo haya letras (sin contar espacios)

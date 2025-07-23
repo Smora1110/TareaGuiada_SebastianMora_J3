@@ -1,3 +1,7 @@
+''''
+Sebastian Mora
+22 julio 2025
+'''
 telefono = input("Escribe un número de teléfono de 10 dígitos: ")
 
 if len(telefono) == 10 and telefono.isdigit():  # Verifica longitud y que sean solo dígitos

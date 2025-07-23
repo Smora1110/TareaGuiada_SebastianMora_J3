@@ -1,3 +1,7 @@
+''''
+Sebastian Mora
+22 julio 2025
+'''
 frase = input("Escribe una frase: ")
 
 a = frase.count("a") + frase.count("A")  # Cuenta 'a' y 'A'
